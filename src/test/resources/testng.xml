@@ -11,14 +11,14 @@
 			<class name="com.qa.runners.MyPixel8TestNGRunnerTest"/>
 		</classes>
 	</test>
-	<test name="Pixelfold">
-		<parameter name="platformName" value="Android" />
-		<parameter name="udid" value="emulator-5556" />
-		<parameter name="deviceName" value="sdk_gphone64_x86_64" />
-		<parameter name="systemPort" value="10001" />
-		<parameter name="chromeDriverPort" value="11001" />
-		<classes>
-			<class name="com.qa.runners.MyPixel8TestNGRunnerTest"/>
-		</classes>
-	</test>
+<!--	<test name="Pixelfold">-->
+<!--		<parameter name="platformName" value="Android" />-->
+<!--		<parameter name="udid" value="emulator-5556" />-->
+<!--		<parameter name="deviceName" value="sdk_gphone64_x86_64" />-->
+<!--		<parameter name="systemPort" value="10001" />-->
+<!--		<parameter name="chromeDriverPort" value="11001" />-->
+<!--		<classes>-->
+<!--			<class name="com.qa.runners.MyPixel8TestNGRunnerTest"/>-->
+<!--		</classes>-->
+<!--	</test>-->
 </suite> <!-- Suite -->
